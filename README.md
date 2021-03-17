@@ -1,11 +1,12 @@
-Lainchan - A fork of vichan
+Whiterose (a fork of Lainchan)
 ========================================================
 
 About
 ------------
-Lainchan is a fork of [vichan](http://github.com/vichan-devel/vichan),
-a great imageboard package, actively building on it and adding a lot of features and other
-improvements.
+Whiterose is a fork of Lainchan designed to function as an art gallery, with shop features integrated into the code.
+
+========================================================
+Lainchan Documentation:
 
 Requirements
 ------------
